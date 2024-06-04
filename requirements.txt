@@ -1,0 +1,4 @@
+torch
+rembg[gpu]
+icecream
+Pillow
